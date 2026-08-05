@@ -1,0 +1,16 @@
+.MODEL SMALL
+.STACK 100
+.DATA
+        NUM1 DW 2322H
+        NUM2 DW 8978H
+        MULTIPLICATION DW 0000H
+.CODE
+        MOV AX,@DATA
+        MOV DS,AX
+        MOV AX,NUM1
+        MOV BX,NUM2
+        MUL BX
+        MOV MULTIPLICATION,BX
+        MOV AH,4CH
+        INT 21H
+        END
