@@ -1,129 +1,131 @@
-<h1 align="center">Hi 👋, I'm Ritesh Jorle</h1>
-<h3 align="center">Diploma Computer Engineering Student | Aspiring Full Stack Web Developer</h3>
+# 🖥️ Assembly Language Programs (8086)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Learning+Every+Day;Open+to+Internship+Opportunities;Building+Projects+with+HTML+CSS+JavaScript" />
+  <img src="https://img.shields.io/badge/Language-Assembly-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Microprocessor-8086-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge">
 </p>
 
----
+## 📖 About
 
-## 🚀 About Me
+Welcome to my **Assembly Language (8086)** repository!
 
-- 🎓 Diploma Computer Engineering Student at **Government Polytechnic, Ambad (MSBTE)**
-- 💻 Learning **Full Stack Web Development**
-- 🌱 Currently improving my skills in **JavaScript, Bootstrap, Git & GitHub**
-- 🔨 Building responsive websites and real-world projects
-- 🎯 Looking for **Internship Opportunities**
-- 📍 Maharashtra, India
+This repository contains a collection of Assembly Language programs that I have written while learning **8086 Microprocessor Programming** as part of my Diploma in Computer Engineering.
+
+The main goal of this repository is to strengthen my understanding of low-level programming, CPU architecture, registers, memory organization, and Assembly Language instructions.
 
 ---
 
-## 🛠 Tech Stack
+## ✨ Features
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql" />
-</p>
-
-### Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap,linux" />
-</p>
+- Beginner to Intermediate Programs
+- Well Organized Source Code
+- Easy to Understand Logic
+- Practical Examples
+- Regularly Updated
+- Suitable for Diploma Students
 
 ---
 
-## 📚 Currently Learning
+## 📚 Topics Covered
 
-- Full Stack Web Development
-- Advanced JavaScript
-- Responsive Web Design
-- Git & GitHub
-- Backend Development
-
----
-
-## 💼 Experience
-
-### Full Stack Development Intern (Training)
-**Tech Surya IT Solution**
-
-- Building responsive websites
-- Practicing HTML, CSS, JavaScript & Bootstrap
-- Using Git & GitHub for version control
-- Working on real-world projects
+- Basic Programs
+- Arithmetic Instructions
+- Logical Instructions
+- Data Transfer Instructions
+- Loop Instructions
+- Conditional Jumps
+- String Operations
+- Number Conversion
+- Array Programs
+- Pattern Programs
+- Input & Output Programs
+- Practice Programs
+- Microprocessor Lab Programs
 
 ---
 
-## 🎓 Education
+## 🛠️ Technologies & Tools
 
-**Government Polytechnic, Ambad**
-
-Diploma in Computer Engineering
-
-2024 – 2027
-
----
-
-## 🚀 Featured Projects
-
-- 🌐 Portfolio Website
-- 📚 Library Management System (C++)
-- 🎯 JavaScript Mini Projects
-- 📱 Responsive Web Pages
+- 8086 Assembly Language
+- EMU8086
+- DOSBox
+- Visual Studio Code
+- Git
+- GitHub
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 How to Run
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats-7uor.vercel.app/api?username=riteshjorle&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats-7uor.vercel.app/api/top-langs/?username=riteshjorle&layout=compact&theme=tokyonight"/>
-</p>
+1. Install EMU8086.
+2. Clone this repository.
 
----
+```bash
+git clone https://github.com/riteshjorle/Assembly-Language.git
+```
 
-## 📈 Contribution Graph
-
-[![Ritesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riteshjorle&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy-psi-ebon.vercel.app/?username=riteshjorle&theme=tokyonight&no-frame=false&no-bg=true)
+3. Open any `.asm` file.
+4. Assemble the program.
+5. Run and observe the output.
 
 ---
 
-## 🌐 Connect With Me
+## 📂 Repository Structure
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/ritesh-jorle-9b34a5427/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:riteshjorle281@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/riteshjorle">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+```
+Assembly-Language
+│
+├── Arithmetic Programs
+├── Loop Programs
+├── String Programs
+├── Pattern Programs
+├── Practice Programs
+└── README.md
+```
 
 ---
 
-## 💡 Quote
+## 🎯 Objectives
 
-> "Consistency beats talent when talent doesn't stay consistent."
+- Learn Assembly Language Programming
+- Understand 8086 Architecture
+- Practice Microprocessor Concepts
+- Prepare for Practical Exams
+- Improve Problem Solving Skills
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=riteshjorle&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+## 📈 Repository Status
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+✅ Active Repository
+
+📌 New programs are added regularly as I continue learning Assembly Language.
+
+---
+
+## 🤝 Contributions
+
+This repository is primarily created for learning purposes.
+
+Suggestions and improvements are always welcome!
+
+---
+
+## 👨‍💻 Author
+
+**Ritesh Jorle**
+
+🎓 Diploma Computer Engineering Student
+
+💻 Aspiring Full Stack Web Developer
+
+🌱 Always Learning New Technologies
+
+---
+
+## ⭐ Support
+
+If you found this repository helpful, don't forget to give it a ⭐ Star.
+
+Happy Coding! 🚀
